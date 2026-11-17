@@ -1,0 +1,8 @@
+{
+  "name": "Desa Wisata Lereng Asri",
+  "description": "Website resmi mobile-first Desa Wisata Lereng Asri untuk keluarga, anak muda, dan rombongan: paket wisata alam, kuliner tradisional, galeri foto desa, dan panduan lokasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
